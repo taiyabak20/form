@@ -2,3 +2,7 @@ Welcome to my website
 
 form
 search bar
+
+conatct details required
+
+thank you
