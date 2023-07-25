@@ -5,6 +5,8 @@ search bar
 
 conatct details required
 
+add password
+
 thank you
 
 all done!
